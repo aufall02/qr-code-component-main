@@ -14,10 +14,13 @@ body {
     height: 100vh;
     background-color: var(--Lightgray);
     font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 .box{
-
+    
     width: 320px;
     margin: 0 auto;
     padding:  18px;
